@@ -7,5 +7,5 @@
 ## Полезные ссылки:
 
 * [Функциональные требования](docs/FUNCTIONAL_REQUIRMENTS.md)
-* [Описание сущностей](docs/ENTITIES_DESCRIPTION.md)
-* [Схема БД](docs/DB_SCHEMA.md)
+* [Описание сущностей](docs/ENTITY_DESCRIPTION.md)
+* [Схема БД](docs/DB_SCHEMA.svg)
